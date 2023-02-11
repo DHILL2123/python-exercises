@@ -1,0 +1,2 @@
+import function_exercises
+from function_exercises import calculate_tip

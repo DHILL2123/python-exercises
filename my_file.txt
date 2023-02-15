@@ -1,0 +1,3 @@
+currentbal = balance(bal)
+currentbal = balance(bal)
+currentbal = balance(bal)
